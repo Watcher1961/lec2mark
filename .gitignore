@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+
+# Local inputs, outputs and learner records; keep reusable references tracked.
+/local-materials/
+/local-output/
+/learner-data/
+/work/
+/learner-profile.md
+/session-notes.md

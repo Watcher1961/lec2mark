@@ -1,0 +1,4 @@
+interface:
+  display_name: "lec2mark"
+  short_description: "融合课程材料并审阅教学设计，沿用课程结构与词典，生成可追溯的 Obsidian 学习笔记"
+  default_prompt: "请用 $lec2mark 整理我提供的课程材料，保留来源定位，讲清推理和条件，加入与学习目标对齐的练习、反馈和变式，输出可导入 Obsidian 的笔记。"
